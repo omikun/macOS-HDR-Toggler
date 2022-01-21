@@ -1,4 +1,4 @@
-# macOS HDR Toggler (Big Sur / Catalina)
+# macOS HDR Toggler (Monterey)
 Toggle HDR on/off with keyboard shortcuts!
 
 # Features
